@@ -23,3 +23,5 @@ const contactsSlice = createSlice({
 
 export const {deleteContactsAction, addNewContactsAction} = contactsSlice.actions;
 export default contactsSlice.reducer;
+
+
